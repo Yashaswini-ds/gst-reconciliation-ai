@@ -1,3 +1,4 @@
+HEAD
 # GST Invoice Reconciliation AI — Enterprise Decision Engine
 
 [![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://www.python.org/)
@@ -175,3 +176,6 @@ Detailed architectural decision records are stored under `docs/decisions/`:
 ## 📄 License
 
 This project is licensed under the MIT License.
+
+# gst-reconciliation-ai
+ cae4daabc15050f97ca3fce181af223bc0731fca
